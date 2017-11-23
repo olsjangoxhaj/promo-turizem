@@ -8,3 +8,4 @@ Pershkrimi : Ky app do te ndihmoj cdo turist ne cdo qytet te Shqiperis duke i sh
 Kryetar : Hermes Ibraimllari 
 
 Antare : Daniel Mehmeti
+# Anetare : Olsjan Goxhaj
